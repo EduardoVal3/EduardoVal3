@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Eduardo Valenzuela!
 
 <!--
 **EduardoVal3/EduardoVal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const Eduardo = {    
+    askMeAbout: ["app dev", "web dev", "tech", "companies"],
+    technologies:{
+        backEnd: ["nodejs", "express"],
+        code: ["JavaScript", "Typescript", "React", "HTML", "CSS"],
+        tools: ["Node", "StoryBook", "Styled-Components", "Tailwind CSS" ],       
+        misc: ["Firebase"],
+    }
+}
