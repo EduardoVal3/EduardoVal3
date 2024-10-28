@@ -3,14 +3,13 @@
 
 
 ```js
-const tarredev = {    
-    askMeAbout: ["app dev", "web dev", "tech", "companies"],
+const eduardo = {    
+    askMeAbout: ["app dev", "web dev", "tech", "engineering"],
     technologies:{
-        backEnd: ["nodejs", "express"],
-        code: ["JavaScript", "Typescript", "React", "HTML", "CSS"],
+        backEnd: ["nodejs", "nestjs", "mysql"],
+        code: ["JavaScript", "Typescript", "React", "Vue", "HTML", "CSS"],
         tools: ["Node", "StoryBook", "Styled-Components", "Tailwind CSS" ],       
         misc: ["Firebase"],
-        cms: ["Prestashop", "Wordpress", "Joomla"]
     }
 }
 
