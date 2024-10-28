@@ -1,4 +1,4 @@
-## Hey 👋! I´m Eduardo 👨🏻‍💻
+## Hey 👋! I´m Eduardo Valenzuela 👨🏻‍💻
 
 
 
