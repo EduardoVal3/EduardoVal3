@@ -73,4 +73,3 @@ Español (nativo) · Inglés (B1)
 ## 📫 Contacto
 
 - 📧 [mejiavalenzuelaed@gmail.com](mailto:mejiavalenzuelaed@gmail.com)
-- 🌐 [eduardovalenzuela.vercel.app](https://eduardovalenzuela.vercel.app)
