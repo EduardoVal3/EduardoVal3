@@ -60,7 +60,7 @@ Estudio Ingeniería en Sistemas en la UNAH (Campus Comayagua).
 
 ## 📦 Proyectos destacados
 
-- **eSports Platform** — Base de datos transaccional en **Oracle** para una plataforma de eSports: usuarios, transacciones, tienda, torneos, inscripciones y auditoría. Incluye scripts DDL/DML, paquetes **PL/SQL** con la lógica de negocio, triggers de auditoría, vistas y scripts de ejecución y rollback.
+- **eSports Platform** — Plataforma full-stack para eSports: API en **NestJS**, frontend en **Next.js** y base de datos transaccional en **Oracle** (usuarios, transacciones, tienda, torneos, inscripciones y auditoría). La capa de datos incluye scripts DDL/DML, paquetes **PL/SQL** con la lógica de negocio, triggers de auditoría, vistas y scripts de ejecución y rollback.
 - **DW_ESPORTS** — Data Warehouse corporativo para una plataforma de eSports: integra 4 fuentes (Oracle, SQL Server, Excel, MongoDB) con ETL en SSIS, modelo dimensional, cubos OLAP en SSAS y dashboards en Power BI.
 
 ## 🌱 Ahora mismo
@@ -75,5 +75,4 @@ Español (nativo) · Inglés (B1)
 ## 📫 Contacto
 
 - 📧 [mejiavalenzuelaed@gmail.com](mailto:mejiavalenzuelaed@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-valenzuela-m)
 - 🌐 [eduardovalenzuela.vercel.app](https://eduardovalenzuela.vercel.app)
