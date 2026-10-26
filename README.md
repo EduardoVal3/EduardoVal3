@@ -5,14 +5,7 @@
   Construyo aplicaciones web completas: interfaz, lógica de negocio y los datos que las sostienen.
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/levittwl_">
-    <img src="https://shields.io" alt="Instagram">
-  </a>
-  <a href="mailto:mejiavalenzuelaed@gmail.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+[![Instagram](https://shields.io)](https://instagram.com) [![Email](https://shields.io)](mailto:mejiavalenzuelaed@gmail.com)
 
 ---
 
