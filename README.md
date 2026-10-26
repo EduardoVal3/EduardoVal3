@@ -1,11 +1,13 @@
 <h1 align="center">Hola, soy Eduardo Valenzuela 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Honduras 🇭🇳<br>
-  Construyo aplicaciones web completas: interfaz, lógica de negocio y los datos que las sostienen.
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram">
+  </a>
+  <a href="mailto:mejiavalenzuelaed@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
 </p>
-
-[![Instagram](https://shields.io)](https://instagram.com) [![Email](https://shields.io)](mailto:mejiavalenzuelaed@gmail.com)
 
 ---
 
