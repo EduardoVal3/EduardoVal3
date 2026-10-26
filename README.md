@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://eduardovalenzuela.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"></a>
+  <a href="https://instagram.com/levittwl_"><img src="https://shields.io" alt="Instagram"></a>
   <a href="mailto:mejiavalenzuelaed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -21,7 +21,6 @@ Estudio Ingeniería en Sistemas en la UNAH (Campus Comayagua).
 ## 🛠️ Tecnologías
 
 **Frontend**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
