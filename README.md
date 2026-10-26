@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://eduardovalenzuela.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"></a>
-  <a href="https://www.linkedin.com/in/eduardo-valenzuela-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mejiavalenzuelaed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -61,6 +60,7 @@ Estudio Ingeniería en Sistemas en la UNAH (Campus Comayagua).
 
 ## 📦 Proyectos destacados
 
+- **eSports Platform** — Base de datos transaccional en **Oracle** para una plataforma de eSports: usuarios, transacciones, tienda, torneos, inscripciones y auditoría. Incluye scripts DDL/DML, paquetes **PL/SQL** con la lógica de negocio, triggers de auditoría, vistas y scripts de ejecución y rollback.
 - **DW_ESPORTS** — Data Warehouse corporativo para una plataforma de eSports: integra 4 fuentes (Oracle, SQL Server, Excel, MongoDB) con ETL en SSIS, modelo dimensional, cubos OLAP en SSAS y dashboards en Power BI.
 
 ## 🌱 Ahora mismo
